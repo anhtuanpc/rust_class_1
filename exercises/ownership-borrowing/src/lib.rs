@@ -2,7 +2,7 @@
 // Make it compile
 fn exercise1() {
     // Use as many approaches as you can to make it work
-    let x = String::from("hello, world");
+    let x = String::from("hello, world");   
     let y = &x;
     let z = &x;
 }
